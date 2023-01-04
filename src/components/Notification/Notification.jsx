@@ -1,4 +1,3 @@
-import React from 'react';
 import { Message } from './Notification.styled';
 import PropTypes from 'prop-types';
 

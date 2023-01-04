@@ -1,5 +1,3 @@
-import React from 'react';
-// import styled from 'styled-components';
 import { Button } from 'commonStyles/coommonStyles.styled';
 import { Box } from 'commonStyles/Box';
 import PropTypes from 'prop-types';
