@@ -8,6 +8,7 @@ export const Button = styled.button`
   cursor: pointer;
   min-width: 80px;
   display: flex;
+  text-transform: uppercase;
   gap: 10px;
   align-items: center;
   justify-content: center;
